@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>I am the title</title>
+        <link rel="stylesheet" href={{url_for('static',filename='css/main.css')}} type='text/css' />
+    </head>
+    <body>
+      <h3> Heading</h3>
+      <div>
+      {{bokeh_script|safe}}  <! by inserting via safe method to ensure html tags in the text are rendered as html >
+      </div>
+      <p> I am a paragraph </p>
+    </body>
+</html>

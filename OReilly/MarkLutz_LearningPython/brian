@@ -1,0 +1,2 @@
+#!/Users/Apple/anaconda3/bin/python
+print('The Bright Side '+'of Life...')		# concatenate for strings

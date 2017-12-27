@@ -1,0 +1,648 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inicio - Super Selectos Online</title>
+    <link rel="icon" type="image/png" href="/img/icono_selectos.png">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
+    <link href="/css/fonts/fonts.css" rel="stylesheet"/>
+
+    <link href="/css/icons/selectos/styles.css" rel="stylesheet"/>
+
+    <link href="/css/icheck/icheck.css" rel="stylesheet"/>
+
+    <link href="/js/fancybox/jquery.fancybox.css" rel="stylesheet"/>
+
+    <link href="/js/slick/slick?v=5yYOZim0vASzKZ2uit651mIvE9Gb13ULR1d5vJUtVVE1" rel="stylesheet"/>
+
+    <link href="/css/styles?v=TIRDiMqe7Jj8XgheORKCt19b8WHMWoQPW9U3dpyslRw1" rel="stylesheet"/>
+
+    
+    
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-9009181-1', 'auto');
+  ga('send', 'pageview');
+
+    </script>
+    
+
+</head>
+<body>
+
+
+    <div id="header">
+        <div class="topbar bg-green">
+            <div class="inner marginA">
+                
+
+<!--Donut#C779E82D5E8042D26F46D74D55BD4497BA40E6A24DF023A8A9E3F1352050047BFBF7EEBC902C7B022475841949DDAC2F538C9B7FDD1127CCF5474AA2BE5FC21E21A6684C6497D9A89E2CC01990DC90B7CB0F5A43B610BE8050B0CBC4F78F1BCA54C3BB269579DBD9D4B9522F3303DE3C260D2D49A1AE8E3BD462C1224307AB08C949B1821C1905D47ED28B60F1DC9BAD07216DBCC4DE7F133726DC24552458A7B77B6B693F76458B7388C1D4DCEE626F96A133D6EF42A1953464BC8346AF5D4CFF960C82B7F693C8BE481CD0314DBE10A7B1DA6F93CA5AF957420508884C634C3EADAF3362C98103A176BD8D6A68B0E66B49E7F7E809EEA627F389E3199C5DCD9C12E94D0CBD9B86F010AB6AF1FDC1FC1A48928C1BF24766A7726D20C9FCFC3AE36BFFA650CD4CB8E2B7B88E276A03668056C47DF4A3206D15C368B5ECD5256BD8DDEA964F58BE351F930D70E51B33EF51B24237AB9F9BA380BD20CCE176154C989330D60F9A9ED44DCCD2842EF8E3D32CC0C8BAD917616BBA88C493B3309BFE239F212B17BFB5C124984468B23CEFA9#-->    <div class="sucursal">
+            <a href="#elegirSucursal" class="elegirSucursal">Estoy en: <span>Sala de venta no seleccionada</span></a>
+
+    </div>
+
+<!--EndDonut-->
+
+                <ul class="mn">
+                    
+                    <li><a href="/Tienda/Sucursales">Salas de venta</a></li>
+<!--Donut#24D08E9FEEABD465A318879A32B0CCEFCCF0A5E3882D4D5DF23641AFAE77006931DD85DCCBA200CD892767A5634DC2EB7426AA8A1D297B5691A7A58A272787B4FC52786C2881A5843B6AED728CE060F66ABD3ECD9CE79A7A47D4837CD3C34E9D0D6D07805F125885F298DCD297FBA2CAE353B2A7C9E7A5E1D3CFE955AED37A55B553602A5B61BDC268F0AB70D879BA1941FC2E9964D289C4A1AE042A3929A76B55BC7F1B7138382CC9A8EB33F3A4A07B2D22526956BE79DFB39C038B01EF6D7671A95B2590C2C5B98A4316976DF6B518D61C8ADD4111F24FC1FF2B4F40755D0893627425D40BB0ADD1A8C7939FA17237BF1F79E852DCFF356528BA7CC219FD79F33D7619528D80177D112BB1857134DDB2430D1841624AA7E67F93AA7EC8ACCD3FDFEEE9EBA7251F1DD0E62F804A422AF67754C8A6B64C11F02201D8E72D5B6746E63091599CE6A1B3A3D5609CC93D59115FFF7C7E03B6BD7C1AEC583A6C67583E9BE9A544B557D8823999332A22019D1185B94B2CC097F40688DFB8929D306ACE70A72CF3FD47E39C91FF91EF68F551#-->
+
+    <li><a href="/Cuenta/Registro">Inicia Sesión</a></li>
+
+<li><a href="/Contactenos/Contactenos">Contáctanos</a></li>
+<!--EndDonut-->
+
+                </ul>
+                <div class="social">
+                    <a href="https://www.facebook.com/superselectos.sv" class="fb" target="_blank"><i class="icon-facebook"></i></a>
+                    <a href="https://twitter.com/superselectos" class="tw" target="_blank"><i class="icon-twitter"></i></a>
+                    <a href="http://instagram.com/superselectos" class="in" target="_blank"><i class="icon-instagram"></i></a>
+                    <a href="http://www.youtube.com/SuperSelectosES" class="yt" target="_blank"><i class="icon-youtube-play"></i></a>
+                    <a href="/Contenidos/AppSelectos" class="app"><i class="icon-app-selectos"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <div id="mainbar" class="mainbar bg-brown">
+            <div class="inner">
+                <div class="item small logo">
+                    <a href="/"><i class="icon-logo-min"></i></a>
+                </div>
+                <div class="item small menu">
+                    <a href="" class="toggle-menu">
+                        <i class="icon-menu"></i>
+                        <span>MENÚ</span>
+                    </a>
+                </div>
+                <div id="buscador" class="item">
+                    <div class="input">
+                        <input type="text" class="inputBuscar" placeholder="Escribe el producto">
+                        <button class="buscar"><i class="icon-search"></i><span>BUSCAR</span></button>
+                        <button class="delete-search"></button>
+                    </div>
+                </div>
+                <div class="item small ideas">
+                    <a href="/Contenidos/Ideas">
+                        <i class="icon-ideas"></i>
+                        <span>IDEAS</span>
+                    </a>
+                </div>
+                <div class="item small ofertas">
+                    <a href="/Tienda/Catalogo?tipoEspecial=Ofertas">
+                        <i class="icon-oferta"></i>
+                        <span>OFERTAS</span>
+                    </a>
+                </div>
+                <div class="item small carrito">
+                    <a href="/Pedido/RevisarPedido">
+                        <i class="icon-carrito"></i>
+                        <span class="total-carrito">
+<!--Donut#D481A69ABCB0C0A5535164F2C2077E1C9231BE85A408F60CBB9C1F5641594E8F2EAC8B56D2769095D407A769E0414E46D277E02C81B4BC8018241CF693FFC0A8D2A6386F0304CEB29571B3D6D853821ECF08260025A4668733A7390D1A792C0C03A5511841FA2B81301A040D539C904E3478F30FC63ABE0B69FF93DE9A6FFEA0A986805433902461F790CE8B0E2E467926C3F495F7D18100497269A1530E77762F286054B32F95B1D60566C0CC4E41E2F7EBF9966B20D1473B167284AE8514C06A75A740C720EE455118CBEA1512C73219EE48E46863D1E480BB5B2F1DC93C40B1461891855451D1219329304EF14CB7CA784F96222A8FE7D93F275D6C6B098AF86E6C42004834DCE3AEB1E1F33B3E809C96ED7B4F30177A9FF498A2DFD69FC939E8C306D8D439EF433E54BA62272858985727EF85F4A88F952BAAF0703FD2927C4592F2DB59FF81A325D1DCCA7216CDD37CBA567F20D47B0AA7C2AC680EE1D08AB0576C2EC826D6E1989B69F840F8CD592ADB461A2DDE1254CE50F673AE7A379DE60C268044B9FA762DE5CAE62113E0#-->$0.00<!--EndDonut-->
+</span>
+                    </a>
+                </div>
+            </div>
+
+            <div id="menu">
+                <a href="" class="close toggle-menu color-brown">x</a>
+                <div class="linkswrap">
+                    <div class="bloque">
+                        <div class="inner">
+                            <h3 class="one"><a href="" class="openSidebarCat">CATEGORÍAS</a></h3>
+                            <h3>OFERTAS</h3>
+                            <ul>
+                                <li><a href="/Tienda/Catalogo?tipoEspecial=Exclusivos">Exclusivas Online</a></li>
+                                <li><a href="/Ofertas/Lista">Publicadas en Prensa</a></li>
+                                <li><a href="/Tienda/Catalogo?tipoEspecial=Ofertas">Todas las ofertas</a></li>
+                            </ul>
+                            
+                        </div>
+                    </div>
+                    <div class="bloque">
+                        <div class="inner">
+                            <h3 class="one"><a href="/GiftCard" >GIFT CARD SELECTOS</a></h3>
+                            <h3><a href="/Cuenta/Cuenta">MI CUENTA</a></h3>
+                            <ul>
+                                <li><a href="/Cuenta/Cuenta#misPedidos">Mis pedidos</a></li>
+                                <li><a href="/Cuenta/Cuenta#misDatos">Mis datos</a></li>
+                                <li><a href="/Cuenta/Cuenta#misGiftcard">Mis Gift Card</a></li>
+                            </ul>
+                            <h3 class="one"><a href="/Cuenta/Registro">SUSCRÍBETE</a></h3>
+                        </div>
+                    </div>
+
+                    <div class="bloque">
+                        <div class="inner">
+                            <h3 class="one"><a href="/Contenidos/Novedades">NOVEDADES</a></h3>
+                            <ul>
+                                <li><a href="/Contenidos/Novedades/9">¿Quiénes Somos?</a></li>
+                                
+                                
+                                <li><a href="/Documentos/TerminosyCondiciones.pdf" target="_blank">Políticas de Compra</a></li>
+                            </ul>
+                                <h3 class="one"><a href="/Contenidos/ConsultaRifa">CONSULTA TUS CUPONES</a></h3>
+                            
+                        </div>
+                    </div>
+
+                    <div class="bloque">
+                        <div class="inner">
+                            <h3 class="one"><a href="/BolsaTrabajo/Ofertas">BOLSA DE EMPLEO</a></h3>
+                            <h3 class="one"><a href="/Tienda/Sucursales">SALAS DE VENTA</a></h3>
+                           <h3>BLOG SELECTOS</h3>
+                            <ul>
+                                <li><a href="/Blog/BlogLista?tipoBlog=2">Salud</a></li>
+                                <li><a href="/Blog/BlogLista?tipoBlog=1">Cocina</a></li>
+                                <li><a href="/Blog/BlogLista?tipoBlog=6">Nutrición</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="bloque">
+                        <div class="inner">
+                            <h3>CONTÁCTANOS</h3>
+                            <ul>
+                                <li><a href="/Contenidos/ComoComprar">¿Cómo Comprar?</a></li>
+                                <li><a href="">Call Center (2267-6767)</a></li>
+                                <li><a onclick="chat()" style="cursor:pointer">Chat Online</a></li>
+                                <li><a href="/Contactenos/Contactenos">Contacto</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div id="busqueda">
+                <div class="resultados">
+                    <a href="#" class="ocultarBusqueda">x</a>
+                    <h3>RESULTADOS DE: <span class="textoBusqueda"></span></h3>
+                    <div class="topheader">
+                        <h4 class="cat">CATEGORÍAS</h4>
+                        <h4 class="prod">PRODUCTOS</h4>
+                    </div>
+                    <div class="content">
+                        <div id="loading_busqueda"><img src="/img/loading_busqueda.gif" /> <p>Buscando resultados...</p></div>
+                        <div class="inner" id="contenedor-buscador">
+                            
+                        </div>
+                        <div class="btn-resultados">
+                            <a href="/Tienda/Buscador?keyword=param1" id="url-vertodos">VER TODOS LOS RESULTADOS <i class="icon-link-external icon-inline"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="out"></div>
+            </div>
+
+        </div>
+    </div>
+
+        <div class="logo-big">
+            <div class="inner">
+                <a href="">
+                    <img src="/img/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+
+
+    <div id="sidebar">
+        <div class="btns">
+
+
+        </div>
+        <div class="sidebarwrap">
+            <a href="#" class="closeSidebar"></a>
+
+
+
+        </div>
+    </div>
+    <div class="fulloverlay"></div>
+    
+
+
+ 
+<div id="mainSlider">
+    <div class="slider">
+
+
+        <div class="slide sl1" style="background-image: url('/Home/GetImagenBanners/210?width=2376&amp;height=480&amp;calidad=95'); background-color: #e7e7e8">
+            <a href="https://goo.gl/w8o6kP" target="_blank">
+                <img src="/Home/GetImagenBanners/210?width=2376&amp;height=480&amp;calidad=95" alt="">
+            </a>
+        </div>
+        <div class="slide sl2" style="background-image: url('/Home/GetImagenBanners/152?width=2376&amp;height=480&amp;calidad=95'); background-color: #e7e7e8">
+            <a>
+                <img src="/Home/GetImagenBanners/152?width=2376&amp;height=480&amp;calidad=95" alt=""> 
+            </a>
+               
+            
+        </div>
+        <div class="slide sl3" style="background-image: url('/Home/GetImagenBanners/183?width=2376&amp;height=480&amp;calidad=95'); background-color: #e7e7e8">
+            <a>
+                <img src="/Home/GetImagenBanners/183?width=2376&amp;height=480&amp;calidad=95" alt=""> 
+            </a>
+               
+            
+        </div>
+
+    </div>
+</div>
+
+<div class="submenu font2">
+    <div class="inner">
+        <ul class="mn">
+            <li class="comp"><a href="/Contenidos/ComoComprar"><i class="icon-comprar"></i><span>CÓMO COMPRAR</span></a></li>
+            <li class="suc"><a href="/Tienda/Sucursales"><i class="icon-sucursal"></i><span>SALAS DE VENTA</span></a></li>
+            <li class="gif"><a href="/GiftCard"><i class="icon-giftcard"></i><span>GIFT CARDS SELECTOS</span></a></li>
+            <li class="ofe"><a href="/Ofertas/Lista"><i class="icon-oferta-2"></i><span>OFERTAS PUBLICADAS</span></a></li>
+        </ul>
+        <div class="logo-blog">
+            <a href="/Blog/Blog"><img src="/img/logo-blog.png" alt="" ></a>
+        </div>
+    </div>
+</div>
+
+<div id="carrusel">
+    <div class="inner">
+
+
+            <div class="bloque">
+                <div class="big" style="background-image: url('/Home/GetImagenBannersRedes/17?width=370&amp;height=440&amp;calidad=95')">
+                </div>
+            </div>
+<div class = "bloque">            <div class="small" style="background-image: url('/Home/GetImagenBannersRedes/18?width=370&amp;height=220&amp;calidad=95')">
+                    <a href="https://goo.gl/Vw5z3Y" class="youtube" target="_blank">
+                            <i class="icon-youtube-play"></i>
+
+                    </a>
+            </div>
+            <div class="small" style="background-image: url('/Home/GetImagenBannersRedes/19?width=370&amp;height=220&amp;calidad=95')">
+            </div>
+</div><div class = "bloque">            <div class="small" style="background-image: url('/Home/GetImagenBannersRedes/20?width=370&amp;height=220&amp;calidad=95')">
+                    <a href="https://goo.gl/hslsKX" class="instagram" target="_blank">
+                            <i class="icon-instagram"></i>
+
+                    </a>
+            </div>
+            <div class="small" style="background-image: url('/Home/GetImagenBannersRedes/21?width=370&amp;height=220&amp;calidad=95')">
+                    <a href="https://goo.gl/8RU4U8" class="youtube" target="_blank">
+                            <i class="icon-youtube-play"></i>
+
+                    </a>
+            </div>
+</div>            <div class="bloque">
+                <div class="big" style="background-image: url('/Home/GetImagenBannersRedes/22?width=370&amp;height=440&amp;calidad=95')">
+                </div>
+            </div>
+<div class = "bloque">            <div class="small" style="background-image: url('/Home/GetImagenBannersRedes/23?width=370&amp;height=220&amp;calidad=95')">
+                    <a href="https://goo.gl/JlZ1rM" class="facebook" target="_blank">
+                            <i class="icon-facebook"></i>
+
+                    </a>
+            </div>
+            <div class="small" style="background-image: url('/Home/GetImagenBannersRedes/24?width=370&amp;height=220&amp;calidad=95')">
+                    <a href="https://goo.gl/JlZ1rM" class="facebook" target="_blank">
+                            <i class="icon-facebook"></i>
+
+                    </a>
+            </div>
+</div><div class = "bloque">            <div class="small" style="background-image: url('/Home/GetImagenBannersRedes/25?width=370&amp;height=220&amp;calidad=95')">
+                    <a href="https://goo.gl/YfAf5Y" class="youtube" target="_blank">
+                            <i class="icon-youtube-play"></i>
+
+                    </a>
+            </div>
+            <div class="small" style="background-image: url('/Home/GetImagenBannersRedes/26?width=370&amp;height=220&amp;calidad=95')">
+                    <a href="https://goo.gl/gCcmKK" class="youtube" target="_blank">
+                            <i class="icon-youtube-play"></i>
+
+                    </a>
+            </div>
+</div>            <div class="bloque">
+                <div class="big" style="background-image: url('/Home/GetImagenBannersRedes/27?width=370&amp;height=440&amp;calidad=95')">
+                </div>
+            </div>
+<div class = "bloque">            <div class="small" style="background-image: url('/Home/GetImagenBannersRedes/28?width=370&amp;height=220&amp;calidad=95')">
+                    <a href="https://goo.gl/WUUa61" class="instagram" target="_blank">
+                            <i class="icon-instagram"></i>
+
+                    </a>
+            </div>
+            <div class="small" style="background-image: url('/Home/GetImagenBannersRedes/29?width=370&amp;height=220&amp;calidad=95')">
+                    <a href="https://goo.gl/Yk6RQl" class="youtube" target="_blank">
+                            <i class="icon-youtube-play"></i>
+
+                    </a>
+            </div>
+</div><div class = "bloque">            <div class="small" style="background-image: url('/Home/GetImagenBannersRedes/30?width=370&amp;height=220&amp;calidad=95')">
+                    <a href="https://goo.gl/HHSSu0" class="instagram" target="_blank">
+                            <i class="icon-instagram"></i>
+
+                    </a>
+            </div>
+            <div class="small" style="background-image: url('/Home/GetImagenBannersRedes/31?width=370&amp;height=220&amp;calidad=95')">
+                    <a href="https://goo.gl/niMKe5" class="youtube" target="_blank">
+                            <i class="icon-youtube-play"></i>
+
+                    </a>
+            </div>
+</div>
+
+    </div>
+</div>
+
+<div id="catSlider">
+    <div class="inner font2">
+        <div class="bloque">
+            <div class="cat">
+                <a href="/Tienda/Catalogo/abarrotes?categoria=99"><img src="/img/categorias/abarrotes.jpg" alt=""><span>ABARROTES</span></a>
+            </div>
+            <div class="cat">
+                <a href="/Tienda/Catalogo/cuidado-personal-y-cosmeticos?categoria=104"><img src="/img/categorias/cuidado-personal.jpg" alt=""><span>CUIDADO PERSONAL</span></a>
+            </div>
+        </div>
+        <div class="bloque">
+            <div class="cat">
+                <a href="/Tienda/Catalogo/articulos-de-limpieza?categoria=101"><img src="/img/categorias/limpieza.jpg" alt=""><span>LIMPIEZA</span></a>
+            </div>
+            <div class="cat">
+                <a href="/Tienda/Catalogo/embutidos?categoria=314"><img src="/img/categorias/embutidos.jpg" alt=""><span>EMBUTIDOS</span></a>
+            </div>
+        </div>
+        <div class="bloque">
+            <div class="cat">
+                <a href="/Tienda/Catalogo/carnes?categoria=272"><img src="/img/categorias/carnes.jpg" alt=""><span>CARNES</span></a>
+            </div>
+            <div class="cat">
+                <a href="/Tienda/Catalogo/bebidas?categoria=100"><img src="/img/categorias/bebidas.jpg" alt=""><span>BEBIDAS</span></a>
+            </div>
+        </div>
+        <div class="bloque">
+            <div class="cat">
+                <a href="/Tienda/Catalogo/articulos-del-hogar?categoria=621"><img src="/img/categorias/hogar.jpg" alt=""><span>HOGAR</span></a>
+            </div>
+            <div class="cat">
+                <a href="/Tienda/Catalogo/productos-agricolas?categoria=276"><img src="/img/categorias/agricola.jpg" alt=""><span>PRODUCTOS AGRÍCOLA</span></a>
+            </div>
+        </div>
+        <div class="bloque">
+            <div class="cat">
+                <a href="/Tienda/Catalogo/bakery?categoria=594"><img src="/img/categorias/bakery.jpg" alt=""><span>BAKERY</span></a>
+            </div>
+            <div class="cat">
+                <a href="/Tienda/Catalogo/productos-refrigerados-y-congelados?categoria=303"><img src="/img/categorias/congelados.jpg" alt=""><span>REFRIGERADOS Y CONGELADOS</span></a>
+            </div>
+        </div>
+        <div class="bloque">
+            <div class="cat">
+                <a href="/Tienda/Catalogo/cosmeticos?categoria=631"><img src="/img/categorias/cosmeticos.jpg" alt=""><span>COSMÉTICOS</span></a>
+            </div>
+            <div class="cat">
+                <a href="/Tienda/Catalogo/cuidado-de-mascotas?categoria=673"><img src="/img/categorias/mascotas.jpg" alt=""><span>CUIDADO MASCOTAS</span></a>
+            </div>
+        </div>
+        <div class="bloque">
+            <div class="cat">
+                <a href="/Tienda/Catalogo/arreglos-florales?categoria=628"><img src="/img/categorias/arreglos-florales.jpg" alt=""><span>ARREGLOS FLORALES</span></a>
+            </div>
+            <div class="cat">
+                <a href="/Tienda/Catalogo/electrodomesticos?categoria=500"><img src="/img/categorias/electrodomesticos.jpg" alt=""><span>ELECTRODO- <br>MÉSTICOS</span></a>
+            </div>
+        </div>
+        <div class="bloque">
+            <div class="cat">
+                <a href="/Tienda/Catalogo/todo-para-bebe?categoria=105"><img src="/img/categorias/bebes.jpg" alt=""><span>TODO PARA BEBÉS</span></a>
+            </div>
+            <div class="cat">
+                <a href="/Tienda/Catalogo/escolares?categoria=540"><img src="/img/categorias/escolares.jpg" alt=""><span>ESCOLARES</span></a>
+            </div>
+        </div>
+        <div class="bloque">
+            <div class="cat">
+                <a href="/Tienda/Catalogo/tecnologia?categoria=502"><img src="/img/categorias/tecnologia.jpg" alt=""><span>TECNOLOGÍA</span></a>
+            </div>
+            <div class="cat">
+                <a href="/Tienda/Catalogo/ropa-y-calzado?categoria=572"><img src="/img/categorias/ropa-y-calzado.jpg" alt=""><span>ROPA Y CALZADO</span></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="suscribeline bg-brown color-white font2">
+    <a href="/Cuenta/Registro">SUSCRÍBETE <i class="icon-email"></i></a>
+</div>
+
+
+
+<input type="hidden" value="1" id="prmRequiereSu" />
+<input type="hidden" value="/Tienda/Catalogo/carnes?categoria=272&amp;marca=&amp;page=1&amp;tipoEspecial=Ninguno&amp;catEspecial=0" id="prmReturnUrl" />
+
+
+
+
+
+
+
+
+    <div id="footer">
+        
+
+        <div class="textobottom">
+            <div class="texto">
+                <p>Derechos Reservados 2017 Grupo Calleja | <a href="/Documentos/TerminosyCondiciones.pdf" target="_blank">Uso y condiciones</a> | <a href="/Documentos/PoliticaPrivacidad.pdf" target="_blank">Política de Privacidad</a></p>
+                <p>"superselectos.com" es una marca de supermercado registrado</p>
+            </div>
+            <div class="security-logos">
+                <span><img src="/img/ssl.png" alt=""></span>
+                <span><img src="/img/visa.png" alt=""></span>
+                <span><img src="/img/mastercard.png" alt=""></span>
+            </div>
+
+        </div>
+    </div>
+
+
+    <div id="container-floating" class="inicial">
+
+        <div class="nd-comprar nds">
+            <a class="box" href="/Contenidos/ComoComprar">
+                <span class="icono"><i class="icon-comprar"></i></span>
+                <span class="texto">¿CÓMO COMPRAR?</span>
+            </a>
+        </div>
+        <div class="nd-chat nds">
+            <a class="box" onclick="chat()" style="cursor:pointer">
+                <span class="icono"><i class="icon-chat"></i></span>
+                <span class="texto">CHAT ONLINE</span>
+            </a>
+        </div>
+        <div class="nd-call nds">
+            <a class="box">
+                <span class="icono"><i class="icon-call"></i></span>
+                <span class="texto">(503) 2267-6767</span>
+            </a>
+        </div>
+        <div class="nd-email nds">
+            <a class="box" href="/Contactenos/Contactenos">
+                <span class="icono"><i class="icon-email"></i></span>
+                <span class="texto">CONTACTO</span>
+            </a>
+        </div>
+        <div id="floating-button">
+            <div class="plus"></div>
+        </div>
+
+    </div>
+
+    
+<input type="hidden" id="baseUrl" value="http://www.superselectos.com/"/>
+
+
+
+    
+<!--Donut#552B56E96DBBEC03E0C6376013996C9E8ADA4455ABDC1116DC55783E55BC53032ED46FE09FA8E07E7B9A65DAEC7BD79B15EC4436EE294C632FCFA3B120E17F06026644B192FA7D6B5B63DEF81880653A11809C73C7FAAC052672B66CBB63AEC66A1AF5DCD52B1D140E715C76C5EE7E9004AF38431CE890316062A1CEF3BF4F370EBB295235EA7E5ACA39749D36B5ABD943128DBADAB6BF38543ED3AAEB0DBC89292B7EFFD1E74D047707CEF35632E095F73C677A38E22B986EB2C69C1BD1D7241FF291D4C9C6713D5D8B9C8A7B8D765262B5B12C40A38AD1D8882FCB909670C42312EC4A78EFB364025F8FE0AAE194B00D8AD1411C6ADDD81B0D62DEA83F6D9673E2E2DF93F3E51BCF0FD3714BD2C1AF3195C0324B7330AB5EB346131F6FB1C2134C26DB836F5C84EC4467B8A40B160BDC67B3E0EC592F1932A6AA9EAF2A8817D8AAB0630A6CF7844FF9A3C6AFB9E8DB27B007CE747833AB9A1673B857F404A853E2D6CD9956B807CC1E1FC70C5358C23E8CED1A09056CD181A307BC6FC04815238B610FA1C45F2632633F6B3ECDF0DE#-->
+<script src="/js/jquery-2.1.4.min.js"></script>
+<div id="elegirSucursal" style="display:none">
+    <div class="inner">
+        <h3>ELEGIR SALA DE VENTA</h3>
+        <p class="top">¡BIENVENIDO A TU SÚPER <br>EXPERIENCIA DE COMPRA!</p>
+        <p class="ind">INDÍCANOS CÓMO DESEAS TU PEDIDO</p>
+        <p style="padding-bottom:15px">Súper Selectos Online mostrará únicamente productos disponibles en la sala de venta que selecciones. Si decides utilizar el servicio a domicilio, tus productos se despacharán de la sala de venta que hayas seleccionado. Igualmente, si eliges retirar tus productos en tu Súper Selectos favorito, deberás acudir a la sala de venta marcada</p>
+        <div class="box">
+            <div class="optionTab borR">
+                <a href="#opcionDomicilio" id="domiOpt">
+                    <span class="img"><i class="icon-delivery"></i></span>
+                    <span class="tx">A DOMICILIO</span>
+                </a>
+            </div>
+            <div class="optionTab">
+                <a href="#opcionSala" id="salaOpt">
+                    <span class="img"><i class="icon-sucursal"></i></span>
+                    <span class="tx">RETIRO EN SALA DE VENTA</span>
+                </a>
+            </div>
+            <div class="detalles">
+                <div id="opcionDomicilio" class="tabContent optioncontent" data-tabgroup="tipoentrega">
+<form Id="frmSelecSuc" action="/Home/SetSucursal" method="post"><div class="validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
+</ul></div>                        <div class="form-a size-sm">
+                            <div class="row">
+                                <p id="lblDep"></p>
+                                <select Id="drpDeps" data-val="true" data-val-number="The field IdDepartamento must be a number." data-val-regex="Debe escoger un departamento" data-val-regex-pattern="^[0-9]*?[0-9]+$" data-val-required="El departamento es requerido" id="IdDepartamento" name="IdDepartamento"><option value="">DEPARTAMENTO</option>
+<option value="1">AHUACHAPAN</option>
+<option value="9">CABA&#209;AS</option>
+<option value="4">CHALATENANGO</option>
+<option value="6">CUSCATLAN</option>
+<option value="5">LA LIBERTAD</option>
+<option value="8">LA PAZ</option>
+<option value="14">LA UNION</option>
+<option value="13">MORAZAN</option>
+<option value="12">SAN MIGUEL</option>
+<option value="7">SAN SALVADOR</option>
+<option value="10">SAN VICENTE</option>
+<option value="3">SANTA ANA</option>
+<option value="2">SONSONATE</option>
+<option value="11">USULUTAN</option>
+</select>
+                            </div>
+                            <div class="row">
+                                <p id="lblMun"></p>
+                                <select Id="drpMuns" data-val="true" data-val-number="The field IdMunicipio must be a number." data-val-regex="Debe escoger un municipio" data-val-regex-pattern="^[0-9]*?[0-9]+$" data-val-required="El municipio es requerido" id="IdMunicipio" name="IdMunicipio"><option value="">MUNICIPIO</option>
+</select>
+                            </div>
+                            <div class="row">
+                                <p id="lblSuc"></p>
+                                <select Id="drpSucs" data-val="true" data-val-number="The field IdSucursal must be a number." data-val-regex="Debe escoger una sucursal" data-val-regex-pattern="^[0-9]*?[0-9]+$" data-val-required="La sucursal es requerida" id="IdSucursal" name="IdSucursal"><option value="">SALA DE VENTA</option>
+</select>
+                            </div>
+                            <div class="row">
+                                <button type="button" class="button-b brown" id="btnSelecSala">CONTINUAR</button>
+                            </div>
+                        </div>
+<input Id="tipoEnt" data-val="true" data-val-number="The field TipoEntrega must be a number." data-val-required="El tipo de entrega es requerido" id="TipoEntrega" name="TipoEntrega" type="hidden" value="" /><input Id="txtRet" id="ReturnUrl" name="ReturnUrl" type="hidden" value="" /></form>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        var returnUrl = QueryString.returnUrl;
+        $("#txtRet").val(returnUrl);
+    });
+
+    $(document).on("click", "#btnSelecSala", function (e) {
+        e.preventDefault();
+        Bitworks.Ventanas.mostrarLoading();
+        $("#frmSelecSuc").submit();
+    });
+</script><!--EndDonut-->
+
+    <input id="retUrlPedido" type="hidden" value="" />
+
+
+  
+<input id="input-urlagregar"    type="hidden" value="/Pedido/AddProducto"/>
+<input id="input-urleditar" type="hidden" value="/Pedido/EditarCantidadProducto"/>
+<input id="url-actualizar-carrito" type="hidden" value="/Pedido/_ActualizarCarretilla" />
+<input id="cantMaxCompra" type="hidden" value="700"/>
+<input id="cantMinCompra" type="hidden" value="5"/>
+<input id="loadingGeneral" value="/img/Loading_icon.gif" type="hidden"/>
+
+<input id="url-det-prod" type="hidden" data-detalleprod='/Tienda/_DetalleProducto' value=""/>
+
+<input id="url-buscador" type="hidden" value="/Tienda/_getBuscador?keyword=param1" />
+<a style="display: none" id="urlsSucursal" data-selecsuc='/Home/_SeleccionSucursal'
+   data-selecmun='/Home/GetMunicipiosByDepartamento'
+   data-drpsuc='/Home/GetSucursalesByMunicpio'></a>
+
+<input type="hidden" id="tipoScript" value="1"/>
+
+<div id="detalleProducto" style="display:none;"></div>
+
+<input type="hidden" id="currentUrl" value="/?requiereSucursal=True&amp;returnUrl=%2FTienda%2FCatalogo%2Fcarnes%3Fcategoria%3D272%26marca%3D%26page%3D1%26tipoEspecial%3DNinguno%26catEspecial%3D0"/>
+       
+
+<script src="/bundles/plugins?v=k4LvCkhuCdGafAp1N-r-vjI5XXIltlBhNeZUS6fNv341"></script>
+
+    <script src="/bundles/customScripts?v=q0Kj-8sVJeU236uXxs-f9cxtnpq8j91JCG2knPUrsN41"></script>
+
+    <script src="/bundles/pedidos?v=CFAT32WV2oTnHavkkt2uyVWLCplKWoEUwb45_4WlW3U1"></script>
+
+    
+    <script>
+        if ($("#prmRequiereSu").val() == 1) {//Estas variables estan en el indice
+            openBoxSucursal(true);
+            
+        }
+        if (0 !== 0) {
+            swal("Registrado!", "Tu cuenta ha sido creada exitosamente", "success");
+        }
+        if (0 !== 0) {
+            swal("Cuenta Asociada!", "Tus cuentas de SuperSelectos y FaceBook han sido asociadas correctamente", "success");
+        }
+
+        var retUrl = "";
+        if ($("#prmRequiereSu").val() == 1) {//Estas variables estan en el indice
+            openBoxSucursal(true);
+            retUrl = $("#prmReturnUrl").val();
+        }
+    </script> 
+
+    <script type="text/javascript" src='/Scripts/stats.js'></script>
+
+</body>
+</html>

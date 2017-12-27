@@ -1,0 +1,44 @@
+contabilidad	accounting	el libro	book
+álgebra	algebra	el colegio	college
+arte	art	la computadora	computer
+biología	biology	el diccionário	dictionary
+negocio	business	el papel	paper
+cálculo	calculus	el lapiz	pencil
+química	chemistry	el lapicero	pen
+informática	computerscience	profesor/a	professor
+danza	dance	escuela	school
+economía	economics	estudiente	student
+idiomasextranjeros	foreignlanguages	maestro/maestra	teacher
+geografía	geography	el examen	test/quiz/exam
+geometría	geometry	la universidad	university
+historia	history	estudiar	to study
+matemáticas	math	aprender	to learn
+música	music	enseñar	to teach
+educaciónfísica	physicaleducation	escribir	to write
+física	physics	dibujar	to draw
+cienciapolítica	politicalscience	leer	to read 
+el aeropuerto	airport	panaderia	pastryshop
+la panadería	bakery	el parque	park
+el banco	bank	la farmácia	pharmacy
+la playa	beach	la estación de la policía	policestation
+el café	cafe	los correos	postoffice
+la iglesia	church	la piscina	pool
+la fábrica	factory	el restaurante	restaurant
+el gardín	garden	la escuela	school
+almacén	grocerystore	el estadio	stadium
+el hogar	home	tienda	store
+la hospital	hospital	la estación del tren	trainstation
+la biblioteca	library	pasillo de ciudad	townhall
+el mercado	market	librería	bookstore
+el cine	movietheater	parquezoológico	zoo
+la officina	office	el intercambio de modernidad	currencyexchange
+la ciudad	city	las aduanas	customs
+la renta	the rent	la entrada	entrance
+el impuesto	tax	el salido	exit
+la cuesta	the cost	la información	information
+el précio	price	pagar	to pay
+la cuenta	bill	comprar	to buy
+la estimación	estimate	vender	to sell
+el cheque	check	costar	to cost
+el cheque de viajar	travelerscheck	alquiler	to rent
+el passaporte	passport	depositar	to deposit

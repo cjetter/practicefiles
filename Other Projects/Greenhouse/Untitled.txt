@@ -1,0 +1,25 @@
+- Establish connection to DB via smb
+
+- Update DB
+	- change date to date time
+	- update layout of hora
+
+- Buttons for date time axis selection
+
+- Fix Hover Tool display or if necessary, remove and add in text field that lists info
+
+- Toggle between smoothed and discrete
+
+- Toggle between synchronized axis scrolling of two figures
+
+- Update layout of figures and buttons
+
+- Determine integration with Apache server
+	- instead of generating the graph with the show app.py, open a browser and enter the IP address: 192.168.1.38
+
+
+Future Options
+- Include a widget to set the date range -- https://stackoverflow.com/questions/42303605/python-bokeh-how-to-change-range-of-datetime-axis
+- Look into Shared Publishing to collect aggregate data from multiple pi’s
+
+- Look into FTP, telnet, ssh, etc. option for querying DB
